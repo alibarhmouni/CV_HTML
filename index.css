@@ -1,0 +1,59 @@
+.content{
+	
+	width:400px;
+	margin:0 auto;
+}
+
+figure{
+
+	width:30%;
+	margin:10px auto;
+}
+
+img{
+	margin-top:20px;
+	border-radius: 50%;
+	width:120px;
+	height:auto;
+}
+
+section{
+	position:relative;
+	margin-bottom: 30px;
+	background-color: white;
+	width:100%;
+	box-shadow: 1px 1px 1px rgb(235, 235, 235);
+	border-radius:1%;
+}
+
+body{
+	background-color:rgb(235, 235, 235);
+}
+.name{
+	width:180px;
+	font-size: 30px;
+	margin: 10px auto;
+	color:rgb(125, 125, 125);
+}
+
+.web{
+	width:140px;
+	margin:0 auto;
+	color:rgb(125, 125, 125);
+	font-size: 20px;
+
+}
+
+.titres{
+	font-size:20px;
+	text-align: center;
+	color:rgb(125, 125, 125);
+	border:1px solid red;
+	margin-top:10px;
+}
+header{
+	position:relative;
+}
+a{
+	text-decoration: none;
+}
